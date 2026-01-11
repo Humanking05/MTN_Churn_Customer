@@ -66,7 +66,9 @@ A **Machine Learning predictive model** is implemented to flag at-risk customers
 - **SQLite**: Database storage for customer data  
 - **Pandas & NumPy**: Data manipulation and calculations  
 - **Scikit-learn**: Logistic regression for churn prediction  
-- **Jupyter Notebook / Streamlit**: Dashboard-ready insights and reporting
+- **Jupyter Notebook / Streamlit**: Dashboard-ready insights and reporting.
+
+Dashboard link: https://mtnchurncustomer-iqeikcji4qxpvxqmqkgnml.streamlit.app/
 
 
 
